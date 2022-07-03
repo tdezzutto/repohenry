@@ -1,0 +1,12 @@
+Variables: las variables las vamos a utilizar en el caso que querramos almacenar un valor de cualquier cosa, para poder usarlo a lo largo del desarrollo de nuestro codigo. A las variables les vamos a asignar un nombre y, en caso de necesitarlo, un valor.
+
+Strings: Las strings son cadenas de texto que van a ser definidas cuando escribamos algo entre comillas dobles o simples.
+
+Funciones: las funciones las utilizamos para desarrollar un código dentro de ella, y poder invocarla cuando deseemos a lo largo de nuestro código principal. La vamos a declarar con la palabra function y el nombre que le querramos asignar a la misma seguido de paréntesis, y luego abrimos corchete y desarrollamos el codigo que ira en la funcion y cerramos corchete.
+Si queremos utilizar una variable dentro de la funcion, tenemos que escribir el nombre de la variable dentro del parentesis de function.
+Cuando queremos que la funcion devuelva algun valor, utilizamos la declaracion return. Cuando el codigo de la funcion llega a return, la funcion se detiene y devuelve el valor.
+
+if: la palabra if la utilizaremos para un bloque condicional. Esto significa que nuestro codigo va a estar ligado a una condicion, y depende si se cumple o no esta condicion, se va a realizar ciertas acciones.
+
+Valores booleanos: los valores booleanos son valores logicos que van a servir para determinar si una condicion o variable es verdadera o falsa.
+
